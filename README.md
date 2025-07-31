@@ -1,2 +1,2 @@
 # Focus-theme
-Dark theme for Focus editor
+A dark theme for [Focus editor](https://github.com/focus-editor/focus)
