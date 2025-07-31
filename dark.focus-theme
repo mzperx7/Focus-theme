@@ -28,7 +28,7 @@ text_input_label:                       C8D0DBFF
 char_under_cursor:                      2C3145FF
 
 ui_default:                             C8D0DBFF
-ui_dim:                                 222636FF
+ui_dim:                                 363C55FF
 ui_neutral:                             363C55FF
 ui_warning:                             DA680FFF
 ui_warning_dim:                         DA680FFF
