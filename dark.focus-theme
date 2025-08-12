@@ -6,8 +6,8 @@ background1:                            222636FF
 background2:                            0E1016FF
 background3:                            0E1016FF
 background4:                            181B26FF
-selection_active:                       222636FF
-selection_inactive:                     22263660
+selection_active:                       2C3145FF
+selection_inactive:                     222636FF
 selection_highlight:                    B3CAF560
 search_result_active:                   8B0000FF
 search_result_inactive:                 363C55FF
@@ -21,7 +21,7 @@ splitter:                               222636FF
 splitter_hover:                         B3CAF5FF
 letter_highlight:                       C8D0DBFF
 list_cursor_lite:                       222636FF
-list_cursor:                            2C3145FF
+list_cursor:                            2C3145FE
 shadow_dark:                            04050780
 shadow_transparent:                     04050700
 text_input_label:                       C8D0DBFF
@@ -87,12 +87,10 @@ code_header4:                           97C4BBFF
 code_header5:                           97C4BBFF
 code_header6:                           97C4BBFF
 
-# Added after migration to version [8]
 ruler:                                  363C55FF
 bracket_highlight:                      B3CAF580
 indent_guide:                           2C3145FF
 
-# Added after migration to version [22]
 active_pane_border:                     363C55FF
 inactive_pane_dim_overlay:              0E1016FF
 code_comment_highlight1:                97C4BBFF
