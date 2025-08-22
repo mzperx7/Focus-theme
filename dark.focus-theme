@@ -6,11 +6,11 @@ background1:                            222636FF
 background2:                            0E1016FF
 background3:                            0E1016FF
 background4:                            181B26FF
-selection_active:                       2C3145FF
+selection_active:                       363C55FF
 selection_inactive:                     222636FF
-selection_highlight:                    B3CAF560
+selection_highlight:                    B3CAF540
 search_result_active:                   8B0000FF
-search_result_inactive:                 363C55FF
+search_result_inactive:                 B3CAF540
 scrollbar:                              2C3145FF
 scrollbar_hover:                        B3CAF560
 scrollbar_background:                   222636FF
